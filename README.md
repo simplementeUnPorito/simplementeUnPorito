@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/img/banner.svg" width="100%" alt="Elías Álvarez — Electronics Engineer"></p>
+<p align="center"><img src="docs/img/banner.svg" width="100%" alt="Elías Álvarez, Electronics Engineer"></p>
 <p align="center">📍 Asunción, Paraguay · Spanish (native) · English (C1)</p>
 
 <p align="center">
@@ -16,24 +16,20 @@
 
 I design **embedded and mixed-signal systems that measure the physical world**: analog front-ends, data-acquisition firmware, wireless sensor networks, control loops and the software that turns raw signals into results. I am a Junior Researcher and university lecturer at the Faculty of Science and Technology, Universidad Católica "Nuestra Señora de la Asunción" (FCT-UCA).
 
-- 🔬 **Research:** a wireless multichannel geophone platform for MASW soil characterization, with a digitally assisted analog front-end on PSoC 5LP (paper accepted at **IEEE URUCON 2026**).
-- 🏆 **3rd place (international), Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *[Green Quantum Grids](https://github.com/Fac0810/Quantum-Hackathon-LATAM-2025-Grupo-8)* (team 8): quantum-assisted topology optimization of power grids to reduce transmission losses.
-- 👨‍🏫 **Teaching:** Programming Languages I, Automatic Control and Systems Architecture at FCT-UCA.
-- 🌎 Spanish (native) · English (C1)
+- **Research:** a wireless multichannel geophone platform for MASW soil characterization, with a digitally assisted analog front-end on PSoC 5LP (paper accepted at **IEEE URUCON 2026**).
+- **3rd place (international), Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *[Green Quantum Grids](https://github.com/Fac0810/Quantum-Hackathon-LATAM-2025-Grupo-8)* (team 8): quantum-assisted topology optimization of power grids to reduce transmission losses.
+- **Teaching:** Programming Languages I, Automatic Control and Systems Architecture at FCT-UCA.
 
 ### Featured projects
 
-| | Project | What it is | Stack |
-|---|---|---|---|
-| 🌍 | **[Wireless MASW Geophone Platform](https://github.com/simplementeUnPorito/wireless-masw-geophone-platform)** | Distributed IoT seismic acquisition with a self-calibrating analog front-end: residual offset cut from 2.9–45.8 % to 0.4–3.9 % FS | PSoC 5LP · ESP32-S3 · ESP-NOW · Python · KiCad/JitX |
-| 🚁 | **[Vertical Helicopter Control](https://github.com/simplementeUnPorito/vertical-helicopter-control)** | Open-loop-unstable plant controlled with PID, pole placement, LQR/LQI and LQG (Kalman) on real hardware · [▶ video](https://www.youtube.com/watch?v=UubJcvpHcn4) | PSoC 5LP · MATLAB · LiDAR |
-| 🦾 | **[Robotic Arm Controller](https://github.com/simplementeUnPorito/psoc-embedded-projects)** | 4-axis teach-and-replay robotic arm: knobs, keypad, LCD, EEPROM motion storage and an OLED co-processor | PSoC 5LP · Arduino · CAD |
-| 🩺 | **[Electronic Stethoscope + Real-time DSP](https://github.com/simplementeUnPorito/dsp-psoc5lp)** | PVDF/contact-sensor front-end and real-time FIR filtering at 8 kHz for heart, lung and bowel sounds, plus FIR-vs-IIR studies on the PSoC filter block | PSoC 5LP · MATLAB/Simulink · PCB |
-| 📻 | **[Software-Defined Radio Experiments](https://github.com/simplementeUnPorito/sdr-gnuradio-experiments)** | AM/FM transceivers, RTL-SDR wideband FM receiver, PAM/PSK/QAM and CPM/MSK modulation, SDR digital modem · [▶ videos](https://www.youtube.com/watch?v=J2AJL3caxe8) | GNU Radio · RTL-SDR · Python |
-| 📡 | **[Hybrid IoT Network](https://github.com/simplementeUnPorito/hybrid-iot-network)** | Wi-Fi + LoRaWAN sensing and actuation platform with MQTT, InfluxDB, Grafana and Home Assistant | ESP32 · LoRa · MQTT · InfluxDB |
-| 🧠 | **[MIPS CPU with UART on FPGA](https://github.com/simplementeUnPorito/fpga-mips-uart)** | MIPS processor with a memory-mapped UART of my own design on a Zybo (Zynq-7000) board | VHDL/Verilog · Vivado |
-| 🔌 | **[Analog Electronics & PCBs](https://github.com/simplementeUnPorito/analog-electronics-pcb)** | 3-stage BJT microphone amplifier designed, simulated and built on a custom PCB | PSpice · EasyEDA |
-| 🎮 | **[Board Games in C](https://github.com/simplementeUnPorito/c-board-games)** | Connect Four (console) and Alquerque (GTK GUI) with rule validation and a computer opponent | C · GTK |
+<table>
+<tr><td width="50%" valign="top"><a href="https://github.com/simplementeUnPorito/wireless-masw-geophone-platform"><img src="https://raw.githubusercontent.com/simplementeUnPorito/wireless-masw-geophone-platform/main/docs/img/banner.svg" width="100%" alt="wireless-masw-geophone-platform"></a><br>Distributed seismic acquisition with a self-calibrating analog front-end. Residual offset cut from 2.9–45.8 % to 0.4–3.9 % of full scale. IEEE URUCON 2026.</td><td width="50%" valign="top"><a href="https://github.com/simplementeUnPorito/vertical-helicopter-control"><img src="https://raw.githubusercontent.com/simplementeUnPorito/vertical-helicopter-control/main/docs/img/banner.svg" width="100%" alt="vertical-helicopter-control"></a><br>Open-loop-unstable plant flown with PID, pole placement, LQR/LQI and LQG on a PSoC 5LP. <a href="https://www.youtube.com/watch?v=UubJcvpHcn4">Demo video</a>.</td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/simplementeUnPorito/psoc-embedded-projects"><img src="https://raw.githubusercontent.com/simplementeUnPorito/psoc-embedded-projects/main/docs/img/banner.svg" width="100%" alt="psoc-embedded-projects"></a><br>4-axis arm that records and replays motions: knobs, keypad, LCD, EEPROM storage and an OLED co-processor.</td><td width="50%" valign="top"><a href="https://github.com/simplementeUnPorito/dsp-psoc5lp"><img src="https://raw.githubusercontent.com/simplementeUnPorito/dsp-psoc5lp/main/docs/img/banner.svg" width="100%" alt="dsp-psoc5lp"></a><br>Contact-sensor front-end and real-time FIR filtering at 8 kHz for heart, lung and bowel sounds, plus FIR-vs-IIR studies.</td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/simplementeUnPorito/sdr-gnuradio-experiments"><img src="https://raw.githubusercontent.com/simplementeUnPorito/sdr-gnuradio-experiments/main/docs/img/banner.svg" width="100%" alt="sdr-gnuradio-experiments"></a><br>AM/FM transceivers, an RTL-SDR broadcast receiver and digital modulation in GNU Radio. <a href="https://www.youtube.com/watch?v=J2AJL3caxe8">Videos</a>.</td><td width="50%" valign="top"><a href="https://github.com/simplementeUnPorito/hybrid-iot-network"><img src="https://raw.githubusercontent.com/simplementeUnPorito/hybrid-iot-network/main/docs/img/banner.svg" width="100%" alt="hybrid-iot-network"></a><br>Wi-Fi and LoRaWAN nodes feeding one MQTT, InfluxDB, Grafana and Home Assistant backend.</td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/simplementeUnPorito/fpga-mips-uart"><img src="https://raw.githubusercontent.com/simplementeUnPorito/fpga-mips-uart/main/docs/img/banner.svg" width="100%" alt="fpga-mips-uart"></a><br>MIPS core on a Zybo with a memory-mapped UART I designed: FIFOs, baud generator, status flags.</td><td width="50%" valign="top"><a href="https://github.com/simplementeUnPorito/analog-electronics-pcb"><img src="https://raw.githubusercontent.com/simplementeUnPorito/analog-electronics-pcb/main/docs/img/banner.svg" width="100%" alt="analog-electronics-pcb"></a><br>Three-stage BJT microphone amplifier taken from hand calculation and PSpice to a fabricated PCB.</td></tr>
+</table>
+
+Also: [board games in C](https://github.com/simplementeUnPorito/c-board-games) · [LM35 multichannel thermometer](https://github.com/simplementeUnPorito/lm35-thermometer)
 
 ### Teaching
 **[Teaching materials](https://github.com/simplementeUnPorito/teaching-materials)**: C programming exercises, a control-systems lab built around an analog reference plant (PID → optimal control), and computer-architecture exercises with MIPS pipeline animations.
@@ -62,9 +58,9 @@ I design **embedded and mixed-signal systems that measure the physical world**: 
 
 Diseño **sistemas embebidos y de señal mixta que miden el mundo físico**: frentes analógicos, firmware de adquisición, redes inalámbricas de sensores, lazos de control y el software que convierte señales en resultados. Soy Investigador Júnior y docente universitario en la Facultad de Ciencias y Tecnología de la Universidad Católica "Nuestra Señora de la Asunción" (FCT-UCA).
 
-- 🔬 **Investigación:** plataforma inalámbrica multicanal de geófonos para caracterización de suelos por MASW, con un frente analógico asistido digitalmente en PSoC 5LP (artículo aceptado en **IEEE URUCON 2026**).
-- 🏆 **3.er puesto internacional, Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *[Green Quantum Grids](https://github.com/Fac0810/Quantum-Hackathon-LATAM-2025-Grupo-8)*, optimización cuántica de la topología de redes eléctricas.
-- 👨‍🏫 **Docencia:** Lenguajes de Programación I, Controles Automáticos y Arquitectura de Sistemas en la FCT-UCA.
-- 🌎 Español (nativo) · Inglés (C1)
+- **Investigación:** plataforma inalámbrica multicanal de geófonos para caracterización de suelos por MASW, con un frente analógico asistido digitalmente en PSoC 5LP (artículo aceptado en **IEEE URUCON 2026**).
+- **3.er puesto internacional, Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *[Green Quantum Grids](https://github.com/Fac0810/Quantum-Hackathon-LATAM-2025-Grupo-8)*, optimización cuántica de la topología de redes eléctricas.
+- **Docencia:** Lenguajes de Programación I, Controles Automáticos y Arquitectura de Sistemas en la FCT-UCA.
+- Español (nativo) · Inglés (C1)
 
 Los proyectos destacados, publicaciones y herramientas están arriba. Cada repositorio tiene su documentación en inglés y en español.
