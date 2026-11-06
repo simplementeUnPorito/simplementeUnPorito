@@ -5,6 +5,7 @@ Asunción, Paraguay 🇵🇾</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/el%C3%ADas-%C3%A1lvarez-8b32571a8/"><img src="https://img.shields.io/badge/LinkedIn-Elías%20Álvarez-0a66c2?logo=linkedin&logoColor=white"></a>
 <a href="mailto:eliasdavidalvarez@gmail.com"><img src="https://img.shields.io/badge/Email-eliasdavidalvarez%40gmail.com-ea4335?logo=gmail&logoColor=white"></a>
+<a href="https://www.youtube.com/@eliasalvarez1181"><img src="https://img.shields.io/badge/YouTube-project%20demos-ff0000?logo=youtube&logoColor=white"></a>
 <img src="https://img.shields.io/badge/IEEE-URUCON%202026%20author-00629b">
 </p>
 
@@ -29,11 +30,14 @@ I design **embedded and mixed-signal systems that measure the physical world**: 
 | 🚁 | **[Vertical Helicopter Control](https://github.com/simplementeUnPorito/vertical-helicopter-control)** | Open-loop-unstable plant controlled with PID, pole placement, LQR/LQI and LQG (Kalman) on real hardware · [▶ video](https://www.youtube.com/watch?v=UubJcvpHcn4) | PSoC 5LP · MATLAB · LiDAR |
 | 🦾 | **[Robotic Arm Controller](https://github.com/simplementeUnPorito/psoc-embedded-projects)** | 4-axis teach-and-replay robotic arm: knobs, keypad, LCD, EEPROM motion storage and an OLED co-processor | PSoC 5LP · Arduino · CAD |
 | 🩺 | **[Electronic Stethoscope + Real-time DSP](https://github.com/simplementeUnPorito/dsp-psoc5lp)** | PVDF/contact-sensor front-end and real-time FIR filtering at 8 kHz for heart, lung and bowel sounds, plus FIR-vs-IIR studies on the PSoC filter block | PSoC 5LP · MATLAB/Simulink · PCB |
-| 📻 | **[Software-Defined Radio Experiments](https://github.com/simplementeUnPorito/sdr-gnuradio-experiments)** | AM/FM transceivers, RTL-SDR wideband FM receiver, PAM/PSK/QAM and CPM/MSK modulation | GNU Radio · RTL-SDR · Python |
+| 📻 | **[Software-Defined Radio Experiments](https://github.com/simplementeUnPorito/sdr-gnuradio-experiments)** | AM/FM transceivers, RTL-SDR wideband FM receiver, PAM/PSK/QAM and CPM/MSK modulation, SDR digital modem · [▶ videos](https://www.youtube.com/watch?v=J2AJL3caxe8) | GNU Radio · RTL-SDR · Python |
 | 📡 | **[Hybrid IoT Network](https://github.com/simplementeUnPorito/hybrid-iot-network)** | Wi-Fi + LoRaWAN sensing and actuation platform with MQTT, InfluxDB, Grafana and Home Assistant | ESP32 · LoRa · MQTT · InfluxDB |
 | 🧠 | **[MIPS CPU with UART on FPGA](https://github.com/simplementeUnPorito/fpga-mips-uart)** | MIPS processor with a memory-mapped UART of my own design on a Zybo (Zynq-7000) board | VHDL/Verilog · Vivado |
 | 🔌 | **[Analog Electronics & PCBs](https://github.com/simplementeUnPorito/analog-electronics-pcb)** | 3-stage BJT microphone amplifier designed, simulated and built on a custom PCB | PSpice · EasyEDA |
 | 🎮 | **[Board Games in C](https://github.com/simplementeUnPorito/c-board-games)** | Connect Four (console) and Alquerque (GTK GUI) with rule validation and a computer opponent | C · GTK |
+
+### Teaching
+**[Teaching materials](https://github.com/simplementeUnPorito/teaching-materials)**: C programming exercises, a control-systems lab built around an analog reference plant (PID → optimal control), and computer-architecture exercises with MIPS pipeline animations.
 
 ### Publications
 - **E. D. Álvarez, V. A. González, E. A. Vargas Cabral.** *Digitally Assisted Analog Front-End for Geophone Instrumentation.* IEEE URUCON 2026, Montevideo, Uruguay (accepted).
