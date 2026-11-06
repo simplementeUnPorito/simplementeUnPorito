@@ -17,7 +17,7 @@ Asunción, Paraguay 🇵🇾</p>
 I design **embedded and mixed-signal systems that measure the physical world**: analog front-ends, data-acquisition firmware, wireless sensor networks, control loops and the software that turns raw signals into results. I am a Junior Researcher and university lecturer at the Faculty of Science and Technology, Universidad Católica "Nuestra Señora de la Asunción" (FCT-UCA).
 
 - 🔬 **Research:** a wireless multichannel geophone platform for MASW soil characterization, with a digitally assisted analog front-end on PSoC 5LP (paper accepted at **IEEE URUCON 2026**).
-- 🏆 **3rd place (international), Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *Green Quantum Grids*, a hybrid platform to optimize power-grid energy flow.
+- 🏆 **3rd place (international), Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *[Green Quantum Grids](https://github.com/Fac0810/Quantum-Hackathon-LATAM-2025-Grupo-8)* (team 8): quantum-assisted topology optimization of power grids to reduce transmission losses.
 - 👨‍🏫 **Teaching:** Programming Languages I, Automatic Control and Systems Architecture at FCT-UCA.
 - 🌎 Spanish (native) · English (C1)
 
@@ -33,7 +33,6 @@ I design **embedded and mixed-signal systems that measure the physical world**: 
 | 📡 | **[Hybrid IoT Network](https://github.com/simplementeUnPorito/hybrid-iot-network)** | Wi-Fi + LoRaWAN sensing and actuation platform with MQTT, InfluxDB, Grafana and Home Assistant | ESP32 · LoRa · MQTT · InfluxDB |
 | 🧠 | **[MIPS CPU with UART on FPGA](https://github.com/simplementeUnPorito/fpga-mips-uart)** | MIPS processor with a memory-mapped UART of my own design on a Zybo (Zynq-7000) board | VHDL/Verilog · Vivado |
 | 🔌 | **[Analog Electronics & PCBs](https://github.com/simplementeUnPorito/analog-electronics-pcb)** | 3-stage BJT microphone amplifier designed, simulated and built on a custom PCB | PSpice · EasyEDA |
-| 🌡️ | **[LM35 Multichannel Thermometer](https://github.com/simplementeUnPorito/lm35-thermometer)** | ESP32 + desktop app for 6-channel acquisition, per-sensor calibration and CSV logging | Python · PyQt · ESP32 |
 | 🎮 | **[Board Games in C](https://github.com/simplementeUnPorito/c-board-games)** | Connect Four (console) and Alquerque (GTK GUI) with rule validation and a computer opponent | C · GTK |
 
 ### Publications
@@ -61,7 +60,7 @@ I design **embedded and mixed-signal systems that measure the physical world**: 
 Diseño **sistemas embebidos y de señal mixta que miden el mundo físico**: frentes analógicos, firmware de adquisición, redes inalámbricas de sensores, lazos de control y el software que convierte señales en resultados. Soy Investigador Júnior y docente universitario en la Facultad de Ciencias y Tecnología de la Universidad Católica "Nuestra Señora de la Asunción" (FCT-UCA).
 
 - 🔬 **Investigación:** plataforma inalámbrica multicanal de geófonos para caracterización de suelos por MASW, con un frente analógico asistido digitalmente en PSoC 5LP (artículo aceptado en **IEEE URUCON 2026**).
-- 🏆 **3.er puesto internacional, Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *Green Quantum Grids*.
+- 🏆 **3.er puesto internacional, Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *[Green Quantum Grids](https://github.com/Fac0810/Quantum-Hackathon-LATAM-2025-Grupo-8)*, optimización cuántica de la topología de redes eléctricas.
 - 👨‍🏫 **Docencia:** Lenguajes de Programación I, Controles Automáticos y Arquitectura de Sistemas en la FCT-UCA.
 - 🌎 Español (nativo) · Inglés (C1)
 
