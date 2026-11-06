@@ -1,6 +1,5 @@
-<h1 align="center">Elías Álvarez</h1>
-<p align="center"><b>Electronics Engineer · Embedded & Mixed-Signal Instrumentation · Junior Researcher</b><br>
-Asunción, Paraguay 🇵🇾</p>
+<p align="center"><img src="docs/img/banner.svg" width="100%" alt="Elías Álvarez — Electronics Engineer"></p>
+<p align="center">📍 Asunción, Paraguay · Spanish (native) · English (C1)</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/el%C3%ADas-%C3%A1lvarez-8b32571a8/"><img src="https://img.shields.io/badge/LinkedIn-Elías%20Álvarez-0a66c2?logo=linkedin&logoColor=white"></a>
