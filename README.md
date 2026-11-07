@@ -45,10 +45,11 @@ Also: [first robotics build, Arduino arm with IMU sensor glove (2019)](https://g
 - **Junior Technician**, ANDE, national power utility (2019): graphical interfaces and data links for the SCADA monitoring system; repair of UPS units, industrial computers and electronic systems.
 - **Systems maintenance intern**, Tape Ruvicha S.A.E.C.A. (2017): hardware and software troubleshooting.
 
+<sub>Also: external evaluator at a secondary-school science fair (2024).</sub>
+
 ### Awards
 - 3rd place (international), Quantum Hackathon LATAM 2025: *Green Quantum Grids*.
 - Silver medal, National Student Physics Competition (2018).
-- External evaluator, secondary-school science fair (2024).
 
 ### Publications
 - **E. D. Álvarez, V. A. González, E. A. Vargas Cabral.** *Digitally Assisted Analog Front-End for Geophone Instrumentation.* IEEE URUCON 2026, Montevideo, Uruguay (accepted).
