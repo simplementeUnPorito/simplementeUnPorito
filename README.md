@@ -34,7 +34,7 @@ Lab notebook: [52 experiments, simulations and learning prototypes](https://gith
 
 On hold: [acoustic mosquito detection study](https://github.com/simplementeUnPorito/mosquito-acoustic-detection-study) (personal research, paused)
 
-Also: [first robotics build, Arduino arm with IMU sensor glove (2019)](https://github.com/simplementeUnPorito/arduino-robotic-arm-2019) · [board games in C](https://github.com/simplementeUnPorito/c-board-games) · [LM35 multichannel thermometer](https://github.com/simplementeUnPorito/lm35-thermometer)
+Also: [first robotics build, Arduino arm with IMU sensor glove (2019)](https://github.com/simplementeUnPorito/arduino-robotic-arm-2019) · [PCB redesign of an IoT groundwater monitor](https://github.com/simplementeUnPorito/groundwater-monitor-pcb-redesign) · [board games in C](https://github.com/simplementeUnPorito/c-board-games) · [LM35 multichannel thermometer](https://github.com/simplementeUnPorito/lm35-thermometer)
 
 ### Teaching
 **[Teaching materials](https://github.com/simplementeUnPorito/teaching-materials)**: C programming exercises, a control-systems lab built around an analog reference plant (PID → optimal control), and computer-architecture exercises with MIPS pipeline animations.
