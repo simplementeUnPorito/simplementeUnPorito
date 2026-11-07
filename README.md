@@ -3,7 +3,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/el%C3%ADas-%C3%A1lvarez-8b32571a8/"><img src="https://img.shields.io/badge/LinkedIn-Elías%20Álvarez-0a66c2?logo=linkedin&logoColor=white"></a>
-<a href="mailto:eliasdavidalvarez@gmail.com"><img src="https://img.shields.io/badge/Email-eliasdavidalvarez%40gmail.com-ea4335?logo=gmail&logoColor=white"></a>
+<a href="mailto:elias.alvarez@uc.edu.py"><img src="https://img.shields.io/badge/Email-elias.alvarez%40uc.edu.py-1f6feb?logo=maildotru&logoColor=white"></a>
+<a href="mailto:eliasdavidalvarez@gmail.com"><img src="https://img.shields.io/badge/Personal-eliasdavidalvarez%40gmail.com-ea4335?logo=gmail&logoColor=white"></a>
 <a href="https://www.youtube.com/@eliasalvarez1181"><img src="https://img.shields.io/badge/YouTube-project%20demos-ff0000?logo=youtube&logoColor=white"></a>
 <img src="https://img.shields.io/badge/IEEE-URUCON%202026%20author-00629b">
 </p>
