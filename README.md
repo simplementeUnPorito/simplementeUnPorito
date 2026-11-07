@@ -51,7 +51,7 @@ Also: [board games in C](https://github.com/simplementeUnPorito/c-board-games) �
 - **Electronics Engineering** (thesis stage), Universidad Católica "Nuestra Señora de la Asunción", scholarship holder
 - **Licentiate in Electronics**, Universidad Católica "Nuestra Señora de la Asunción" (2026)
 - **Diploma in University Teaching**, Universidad Americana, 160 h (2026)
-- **Industrial Technical Baccalaureate, Electronics emphasis**, Colegio Técnico Nacional "Carlos Antonio López" (2017–2019): final project on process automation with robotics
+- **Industrial Technical Baccalaureate, Electronics emphasis**, Colegio Técnico y Centro de Entrenamiento Vocacional "Carlos Antonio López" (2017–2019): final project on process automation with robotics
 - **ECI 2024, Universidad de Buenos Aires:** Deep Learning for Computer Vision · NeuroAI · LLMs
 - **Hands-on Workshop on Network Security**, University of South Carolina (2026)
 
