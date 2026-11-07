@@ -30,6 +30,8 @@ I design **embedded and mixed-signal systems that measure the physical world**: 
 <tr><td width="50%" valign="top"><a href="https://github.com/simplementeUnPorito/fpga-mips-uart"><img src="docs/img/cards/fpga-mips-uart.svg" width="100%" alt="fpga-mips-uart"></a><br>MIPS core on a Zybo with a memory-mapped UART I designed: FIFOs, baud generator, status flags.</td><td width="50%" valign="top"><a href="https://github.com/simplementeUnPorito/analog-electronics-pcb"><img src="docs/img/cards/analog-electronics-pcb.svg" width="100%" alt="analog-electronics-pcb"></a><br>Fully analog PVDF stethoscope and a three-stage BJT microphone amplifier, from PSpice to fabricated PCBs.</td></tr>
 </table>
 
+Lab notebook: [52 experiments, simulations and learning prototypes](https://github.com/simplementeUnPorito/engineering-lab-notebook) in circuits, signals, control, embedded, RF and physics.
+
 On hold: [acoustic mosquito detection study](https://github.com/simplementeUnPorito/mosquito-acoustic-detection-study) (personal research, paused)
 
 Also: [board games in C](https://github.com/simplementeUnPorito/c-board-games) · [LM35 multichannel thermometer](https://github.com/simplementeUnPorito/lm35-thermometer)
