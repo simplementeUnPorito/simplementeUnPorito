@@ -15,7 +15,7 @@
 
 ## English
 
-I design **embedded and mixed-signal systems that measure the physical world**: analog front-ends, data-acquisition firmware, wireless sensor networks, control loops and the software that turns raw signals into results. I am a Junior Researcher and university lecturer at the Faculty of Science and Technology, Universidad Católica "Nuestra Señora de la Asunción" (FCT-UCA).
+I design **embedded and mixed-signal systems that measure the physical world**: analog front-ends, data-acquisition firmware, wireless sensor networks, control loops and software for processing the resulting signals. I am a Junior Researcher and university lecturer at the Faculty of Science and Technology, Universidad Católica "Nuestra Señora de la Asunción" (FCT-UCA).
 
 - **Research:** a wireless multichannel geophone platform for MASW soil characterization, with a digitally assisted analog front-end on PSoC 5LP (paper accepted at **IEEE URUCON 2026**).
 - **3rd place (international), Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *[Green Quantum Grids](https://github.com/Fac0810/Quantum-Hackathon-LATAM-2025-Grupo-8)* (team 8): quantum-assisted topology optimization of power grids to reduce transmission losses.
@@ -36,6 +36,18 @@ Also: [board games in C](https://github.com/simplementeUnPorito/c-board-games) �
 
 ### Teaching
 **[Teaching materials](https://github.com/simplementeUnPorito/teaching-materials)**: C programming exercises, a control-systems lab built around an analog reference plant (PID → optimal control), and computer-architecture exercises with MIPS pipeline animations.
+
+### Experience
+- **Junior Researcher**, Facultad de Ciencias y Tecnología, Universidad Católica (2025 – present): wireless seismic acquisition for MASW, digitally assisted analog front-ends.
+- **University Lecturer**, same faculty (2026 – present): Programming Languages I, Automatic Control, Systems Architecture. Teaching assistant in Physics II (2022), Electromagnetism (2024) and Programming Languages I (2025 – 2026).
+- **Junior Technician**, ANDE, national power utility (2019): graphical interfaces and data links for the SCADA monitoring system; repair of UPS units, industrial computers and electronic systems.
+- **Systems maintenance intern**, Tape Ruvicha S.A.E.C.A. (2017): hardware and software troubleshooting.
+
+### Awards
+- 3rd place (international), Quantum Hackathon LATAM 2025: *Green Quantum Grids*.
+- Gold medal, school science fair: Arduino-controlled robotic arm.
+- Silver medal, National Student Physics Competition (2018).
+- External evaluator, secondary-school science fair (2024).
 
 ### Publications
 - **E. D. Álvarez, V. A. González, E. A. Vargas Cabral.** *Digitally Assisted Analog Front-End for Geophone Instrumentation.* IEEE URUCON 2026, Montevideo, Uruguay (accepted).
@@ -60,11 +72,11 @@ Also: [board games in C](https://github.com/simplementeUnPorito/c-board-games) �
 
 ## Español
 
-Diseño **sistemas embebidos y de señal mixta que miden el mundo físico**: frentes analógicos, firmware de adquisición, redes inalámbricas de sensores, lazos de control y el software que convierte señales en resultados. Soy Investigador Júnior y docente universitario en la Facultad de Ciencias y Tecnología de la Universidad Católica "Nuestra Señora de la Asunción" (FCT-UCA).
+Diseño **sistemas embebidos y de señal mixta que miden el mundo físico**: frentes analógicos, firmware de adquisición, redes inalámbricas de sensores, lazos de control y software para procesar las señales obtenidas. Soy Investigador Júnior y docente universitario en la Facultad de Ciencias y Tecnología de la Universidad Católica "Nuestra Señora de la Asunción" (FCT-UCA).
 
 - **Investigación:** plataforma inalámbrica multicanal de geófonos para caracterización de suelos por MASW, con un frente analógico asistido digitalmente en PSoC 5LP (artículo aceptado en **IEEE URUCON 2026**).
 - **3.er puesto internacional, Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *[Green Quantum Grids](https://github.com/Fac0810/Quantum-Hackathon-LATAM-2025-Grupo-8)*, optimización cuántica de la topología de redes eléctricas.
 - **Docencia:** Lenguajes de Programación I, Controles Automáticos y Arquitectura de Sistemas en la FCT-UCA.
 - Español (nativo) · Inglés (C1)
 
-Los proyectos destacados, publicaciones y herramientas están arriba. Cada repositorio tiene su documentación en inglés y en español.
+La sección en inglés contiene los proyectos destacados, las publicaciones y las herramientas. Cada repositorio tiene documentación en inglés y en español.
