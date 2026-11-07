@@ -77,6 +77,5 @@ Diseño **sistemas embebidos y de señal mixta que miden el mundo físico**: fre
 - **Investigación:** plataforma inalámbrica multicanal de geófonos para caracterización de suelos por MASW, con un frente analógico asistido digitalmente en PSoC 5LP (artículo aceptado en **IEEE URUCON 2026**).
 - **3.er puesto internacional, Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *[Green Quantum Grids](https://github.com/Fac0810/Quantum-Hackathon-LATAM-2025-Grupo-8)*, optimización cuántica de la topología de redes eléctricas.
 - **Docencia:** Lenguajes de Programación I, Controles Automáticos y Arquitectura de Sistemas en la FCT-UCA.
-- Español (nativo) · Inglés (C1)
 
 La sección en inglés contiene los proyectos destacados, las publicaciones y las herramientas. Cada repositorio tiene documentación en inglés y en español.
