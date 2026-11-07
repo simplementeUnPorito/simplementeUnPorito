@@ -19,7 +19,7 @@ I design **embedded and mixed-signal systems that measure the physical world**: 
 
 - **Research:** a wireless multichannel geophone platform for MASW soil characterization, with a digitally assisted analog front-end on PSoC 5LP (paper accepted at **IEEE URUCON 2026**).
 - **3rd place (international), Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *[Green Quantum Grids](https://github.com/Fac0810/Quantum-Hackathon-LATAM-2025-Grupo-8)* (team 8): quantum-assisted topology optimization of power grids to reduce transmission losses.
-- **Teaching:** Programming Languages I, Automatic Control and Systems Architecture at FCT-UCA.
+- **Teaching:** Programming Languages I, Automatic Control (PID through optimal control and Kalman filtering) and Systems Architecture at FCT-UCA.
 
 ### Featured projects
 
@@ -37,7 +37,7 @@ On hold: [acoustic mosquito detection study](https://github.com/simplementeUnPor
 Also: [first robotics build, Arduino arm with IMU sensor glove (2019)](https://github.com/simplementeUnPorito/arduino-robotic-arm-2019) · [PCB redesign of an IoT groundwater monitor](https://github.com/simplementeUnPorito/groundwater-monitor-pcb-redesign) · [board games in C](https://github.com/simplementeUnPorito/c-board-games) · [LM35 multichannel thermometer](https://github.com/simplementeUnPorito/lm35-thermometer)
 
 ### Teaching
-**[Teaching materials](https://github.com/simplementeUnPorito/teaching-materials)**: C programming exercises, a control-systems lab built around an analog reference plant (PID → optimal control), and computer-architecture exercises with MIPS pipeline animations.
+**[Teaching materials](https://github.com/simplementeUnPorito/teaching-materials)**: C programming exercises, a control-systems lab built around an analog reference plant (PID → optimal control; the course extends to Kalman filtering), and computer-architecture exercises with MIPS pipeline animations.
 
 ### Experience
 - **Junior Researcher**, Facultad de Ciencias y Tecnología, Universidad Católica (2025 – present): wireless seismic acquisition for MASW, digitally assisted analog front-ends.
@@ -56,16 +56,16 @@ Also: [first robotics build, Arduino arm with IMU sensor glove (2019)](https://g
 
 ### Toolbox
 **Embedded:** PSoC 5LP · ESP32/ESP32-S3 (ESP-IDF, PlatformIO) · Arduino · ESP-NOW · I²C/SPI/UART · DMA  
-**Analog & hardware:** instrumentation amplifiers · active filters · ADC/DAC front-ends · KiCad · JitX · EasyEDA · PSpice/OrCAD  
+**Analog & hardware:** instrumentation amplifiers · active filters · ADC/DAC front-ends · KiCad · JitX · EasyEDA · PSpice/OrCAD · amateur 3D design and printing (Fusion 360)  
 **Signals & control:** FIR/IIR design · SDR (GNU Radio) · Kalman filtering · PID · LQR/LQG · system identification · MASW / surface-wave analysis  
 **Software:** C · C++ · Python (NumPy, SciPy, PyQt6, FastAPI) · MATLAB/Simulink · Verilog/VHDL · LaTeX  
 **IoT & data:** MQTT · InfluxDB · Grafana · Home Assistant · LoRa/TTN · Git & Git LFS
 
 ### Education & training
-- **Electronics Engineering** (thesis stage), Universidad Católica "Nuestra Señora de la Asunción", scholarship holder
+- **Electronics Engineering** (thesis stage), Universidad Católica "Nuestra Señora de la Asunción", merit scholarship for academic excellence
 - **Licentiate in Electronics**, Universidad Católica "Nuestra Señora de la Asunción" (2026)
 - **Diploma in University Teaching**, Universidad Americana, 160 h (2026)
-- **Industrial Technical Baccalaureate, Electronics emphasis**, Colegio Técnico y Centro de Entrenamiento Vocacional "Carlos Antonio López" (2017–2019): final project on process automation with robotics
+- **Industrial Technical Baccalaureate, Electronics emphasis**, Colegio Técnico y Centro de Entrenamiento Vocacional "Carlos Antonio López" (2017–2019): final project, an [Arduino robotic arm with an IMU sensor glove](https://github.com/simplementeUnPorito/arduino-robotic-arm-2019)
 - **ECI 2024, Universidad de Buenos Aires:** Deep Learning for Computer Vision · NeuroAI · LLMs
 - **Hands-on Workshop on Network Security**, University of South Carolina (2026)
 
@@ -77,6 +77,6 @@ Diseño **sistemas embebidos y de señal mixta que miden el mundo físico**: fre
 
 - **Investigación:** plataforma inalámbrica multicanal de geófonos para caracterización de suelos por MASW, con un frente analógico asistido digitalmente en PSoC 5LP (artículo aceptado en **IEEE URUCON 2026**).
 - **3.er puesto internacional, Quantum Hackathon LATAM 2025** (Open Quantum Institute · Microsoft · Universidad de Montevideo): *[Green Quantum Grids](https://github.com/Fac0810/Quantum-Hackathon-LATAM-2025-Grupo-8)*, optimización cuántica de la topología de redes eléctricas.
-- **Docencia:** Lenguajes de Programación I, Controles Automáticos y Arquitectura de Sistemas en la FCT-UCA.
+- **Docencia:** Lenguajes de Programación I, Controles Automáticos (de PID a control óptimo y filtro de Kalman) y Arquitectura de Sistemas en la FCT-UCA.
 
 La sección en inglés contiene los proyectos destacados, las publicaciones y las herramientas. Cada repositorio tiene documentación en inglés y en español.
