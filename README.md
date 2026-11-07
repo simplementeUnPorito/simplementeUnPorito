@@ -45,7 +45,6 @@ Also: [board games in C](https://github.com/simplementeUnPorito/c-board-games) Â
 
 ### Awards
 - 3rd place (international), Quantum Hackathon LATAM 2025: *Green Quantum Grids*.
-- Gold medal, school science fair: Arduino-controlled robotic arm.
 - Silver medal, National Student Physics Competition (2018).
 - External evaluator, secondary-school science fair (2024).
 
